@@ -2,7 +2,7 @@ layout: {zmk_keyboard: tiny18}
 layers:
   default:
   - {t: W, h: '2'}
-  - E
+  - Z
   - R
   - U
   - I
